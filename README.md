@@ -1,4 +1,4 @@
-# Sobre-mim
+# Sobre mim
 # Vinicius Dantas Alverte Ferreira (Delfalas)
 👨‍💻 Estudante de desenvolvimento de sistemas. Atualmente estou em busca de oportunidade na área de Desenvolvimento, com o objetivo de aprimorar minhas habilidades e expandir meu conhecimento em um ambiente profissional dinâmico e desafiador. Sou proativo, sempre disposto a aprender, e busco contribuir com criatividade, responsabilidade e boa comunicação em equipe. Eu sempre fui fascinado pela tecnologia e hoje busco me aprimorar ainda mais, estudando as linguagens e ferramentas utilizadas mais utilizadas no mercado de trabalho.
 ## Conecte-se comigo
